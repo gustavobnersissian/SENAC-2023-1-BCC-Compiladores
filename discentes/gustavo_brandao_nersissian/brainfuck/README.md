@@ -1,4 +1,4 @@
-O input é o arquivo.txt
+O input é o "arquivo.txt"
 
 Execucação do programa:
 
